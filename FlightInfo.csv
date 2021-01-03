@@ -1,0 +1,67 @@
+Origin,Destination,TimeCost,CurrencyCost
+Singapore Changi,O'Hare International Airport,1205,1014
+Singapore Changi,Shanghai Pudong International Airport,315,825
+Singapore Changi,El Dorado International Airport,1560,1593
+O'Hare International Airport,Singapore Changi,1205,1014
+O'Hare International Airport,John F. Kennedy International Airport,120,160
+O'Hare International Airport,Dallas/Fort Worth International Airport,150,58
+Beijing Capital International Airport,Los Angeles International Airport,1005,1379
+Beijing Capital International Airport,Amsterdam Airport Schiphol,640,240
+Beijing Capital International Airport,Jorge Chavez International Airport,1680,1924
+Dubai International Airport,Beijing Capital International Airport,590,645
+Dubai International Airport,London Heathrow Airport,470,506
+Dubai International Airport,Frankfurt Airport,425,813
+Tokyo Haneda Airport,Charles de Gaulle Airport,765,853
+Tokyo Haneda Airport,John F. Kennedy International Airport,750,882
+Tokyo Haneda Airport,Los Angeles International Airport,585,743
+London Heathrow Airport,Singapore Changi,775,666
+London Heathrow Airport,Madrid Barajas Airport,140,162
+London Heathrow Airport,Tokyo Haneda Airport,710,1168
+Shanghai Pudong International Airport,Cape Town International Airport,1380,1425
+Shanghai Pudong International Airport,Dubai International Airport,785,623
+Shanghai Pudong International Airport,Denver International Airport,925,2300
+Amsterdam Airport Schiphol,Frankfurt Airport,710,578
+Amsterdam Airport Schiphol,Madrid Barajas Airport,1040,1100
+Amsterdam Airport Schiphol,Heathrow Airport,735,979
+Frankfurt Airport,Istanbul Airport,180,192
+Frankfurt Airport,Amsterdam Airport Schiphol,75,130
+Frankfurt Airport,Charles de Gaulle Airport,70,199
+John F. Kennedy International Airport,Cape Town International Airport,1180,1388
+John F. Kennedy International Airport,Denver International Airport,260,131
+John F. Kennedy International Airport,O'Hare International Airport,140,99
+Madrid Barajas Airport,Heathrow Airport,145,218
+Madrid Barajas Airport,Dallas/Fort Worth International Airport,655,1080
+Madrid Barajas Airport,Beijing Capital International Airport,935,1838
+Istanbul Airport,El Dorado International Airport,815,1133
+Istanbul Airport,Shanghai Pudong International Airport,850,2620
+Istanbul Airport,Jorge Chavez International Airport,1080,1211
+Heathrow Airport,Singapore Changi,775,666
+Heathrow Airport,Sao Paulo-Guarrulhos International Airport,670,930
+Heathrow Airport,Tokyo Haneda Airport,710,1168
+Charles de Gaulle Airport,John F. Kennedy International Airport,520,527
+Charles de Gaulle Airport,Istanbul Airport,210,286
+Charles de Gaulle Airport,London Heathrow Airport,85,278
+Dallas/Fort Worth International Airport,Jorge Chavez International Airport,530,219
+Dallas/Fort Worth International Airport,Amsterdam Airport Schiphol,650,1322
+Dallas/Fort Worth International Airport,Bole International Airport,1060,2081
+Sao Paulo-Guarrulhos International Airport,Denver International Airport,860,549
+Sao Paulo-Guarrulhos International Airport,Dubai International Airport,850,599
+Sao Paulo-Guarrulhos International Airport,Cape Town International Airport,869,2549
+El Dorado International Airport,Dallas/Fort Worth International Airport,360,799
+El Dorado International Airport,O'Hare International Airport,495,249
+El Dorado International Airport,Heathrow Airport,620,1203
+Jorge Chavez International Airport,Bole International Airport,1290,3299
+Jorge Chavez International Airport,Shanghai Pudong International Airport,1680,3699
+Jorge Chavez International Airport,Tokyo Haneda Airport,1500,1153
+Bole International Airport,Sao Paulo-Guarrulhos International Airport,730,1599
+Bole International Airport,Charles de Gaulle Airport,455,1799
+Bole International Airport,Beijing Capital International Airport,905,1899
+Cape Town International Airport,Los Angeles International Airport,1680,1277
+Cape Town International Airport,London Heathrow Airport,725,1299
+Cape Town International Airport,Bole International Airport,385,849
+Los Angeles International Airport,Madrid Barajas Airport,795,299
+Los Angeles International Airport,Frankfurt Airport,655,1499
+Los Angeles International Airport,El Dorado International Airport,550,149
+Denver International Airport,Sao Paulo-Guarrulhos International Airport,785,1449
+Denver International Airport,Dubai International Airport,1095,2149
+Denver International Airport,Istanbul Airport,860,1749
